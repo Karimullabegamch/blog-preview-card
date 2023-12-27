@@ -1,0 +1,62 @@
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    min-height: 100px;
+    font-family: 'Figtree';
+}
+.container
+{
+    width:370px;
+    background-color: hsl(0, 0%, 100%);
+    min-height: 450px;
+    margin: 0 auto;
+    margin-top: 110px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+.content
+{
+   
+    
+    padding:16px ;
+    
+}
+.img img
+{
+    border-radius: 10px;
+   
+}
+.lear
+
+{
+    background-color:hsl(47, 88%, 63%) ;
+    width: 80px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 4px;
+
+}
+
+
+.para
+{
+    color: hsl(0, 0%, 50%);
+     line-height: 22px;
+     font-size: 16px;
+
+}
+
+
+.footer
+{
+    margin-top:10px;
+  display:flex;
+ 
+  
+  align-items: center;  
+}
+.footer h5{
+    font-weight: bold;
+    margin-left: 12px;
+}
